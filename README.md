@@ -231,7 +231,7 @@
 
 ----
 	
-[![sarthak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudhanshusingh003)](https://github.com/sudhanshusingh003/github-readme-activity-graph)
+[![sudhanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudhanshusingh003)](https://github.com/sudhanshusingh003/github-readme-activity-graph)
 
  
 </details>
@@ -241,8 +241,6 @@
 ----
 	
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshusingh003&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
-
-[![@gs01's Holopin board](https://holopin.io/api/user/board?user=gs01)](https://holopin.io/@gs01)
 	
 </details>
 
