@@ -147,8 +147,6 @@
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Geek For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
@@ -158,8 +156,6 @@
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Vertex AI" src="https://img.shields.io/badge/Vertex%20AI-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white"></a>
-&emsp;
- <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFDD00?style=plastic&logo=huggingface&logoColor=black"></a>
 &emsp;
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"></a>
 </p>
@@ -213,7 +209,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakkapoor44&theme=tokyonight_duo" alt="sarthakkapoor44" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshusingh003&theme=tokyonight_duo" alt="sudhanshusingh003" /></p>
 
 </details>
   
@@ -223,8 +219,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="sarthakkapoor44's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sarthakkapoor44&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakkapoor44&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="sarthakkapoor44" height="230px"/>
+	    <img alt="sudhanshusingh003's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sudhanshusingh003&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanshusingh003&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="sudhanshusingh003" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -235,7 +231,7 @@
 
 ----
 	
-[![sarthak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarthakkapoor44)](https://github.com/sarthakkapoor44/github-readme-activity-graph)
+[![sarthak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sudhanshusingh003)](https://github.com/sudhanshusingh003/github-readme-activity-graph)
 
  
 </details>
@@ -244,7 +240,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakkapoor44&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshusingh003&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
 
 [![@gs01's Holopin board](https://holopin.io/api/user/board?user=gs01)](https://holopin.io/@gs01)
 	
